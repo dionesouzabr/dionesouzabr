@@ -1,6 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Dione de Souza Silva!
-![image](https://user-images.githubusercontent.com/6993546/153605661-09931b11-a783-4bdc-9cbe-df5cd2cc983e.png)
+<br/>
+![Alt text](https://tenor.com/view/keyboard-computer-pc-windows10-courage-gif-17807642)
 
 - 🔭 I'm currently working on JAVA WEB and the like
 - 🌱 I'm currently learning and improving my knowledge in Spring Boot framework and Angular 2+
