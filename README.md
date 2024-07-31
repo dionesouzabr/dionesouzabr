@@ -10,7 +10,7 @@
 <br/>
 <div>
    <a href="https://github.com/dionesouzabr">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionesave&layout=compact&langs_count=7&theme=city_lights"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionesouzabr&layout=compact&langs_count=7&theme=city_lights"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dionesouzabr&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
 </div>
 
